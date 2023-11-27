@@ -3,4 +3,4 @@ pandas
 pycaret
 scikit-learn
 numpy
-pickle
+
