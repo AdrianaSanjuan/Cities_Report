@@ -1,8 +1,10 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
+import sklearn
 from sklearn.preprocessing import StandardScaler
 import pickle
+
 
 # Cargar el modelo guardado
 #model = tf.keras.models.load_model("titanic_model_nuevo.h5", encoding="latin1")
