@@ -1,6 +1,6 @@
 streamlit
 pandas
 pycaret
-sklearn
+scikit-learn
 numpy
 pickle
